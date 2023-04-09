@@ -1,0 +1,6 @@
+Nov 22, 03:45PM: Worked in parallel with Rana tracing the pipeline and trying to guarantee the correct outputs in everything.
+Nov 23, 03:30PM: Modified the CPU to allow the flushing.
+Nov 23, 06:00PM: Integrating the code with Rana to do the final testing before adding bonus features.
+Nov 23, 10:30PM: Searching for a different way to handle data hazards.
+Nov 23, 11:00PM: Implementing the module for the new data module.
+Nov 24, 11:36PM: Testing the program for the integer multiplication instructions.
